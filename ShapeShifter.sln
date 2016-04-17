@@ -1,0 +1,59 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{7042E2AE-51FA-CDB8-0C98-D6B1C975E947}") = "ShapeShifter", "Assembly-CSharp.csproj", "{C8E2A3B8-2F32-FCE2-EBF7-42FED719FAD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8E2A3B8-2F32-FCE2-EBF7-42FED719FAD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8E2A3B8-2F32-FCE2-EBF7-42FED719FAD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8E2A3B8-2F32-FCE2-EBF7-42FED719FAD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8E2A3B8-2F32-FCE2-EBF7-42FED719FAD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.FileWidth = 120
+		$1.RemoveTrailingWhitespace = False
+		$1.NoTabsAfterNonTabs = True
+		$1.EolMarker = Unix
+		$1.inheritsSet = VisualStudio
+		$1.inheritsScope = text/plain
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.NamespaceBraceStyle = EndOfLine
+		$2.ClassBraceStyle = EndOfLine
+		$2.InterfaceBraceStyle = EndOfLine
+		$2.StructBraceStyle = EndOfLine
+		$2.EnumBraceStyle = EndOfLine
+		$2.MethodBraceStyle = EndOfLine
+		$2.ConstructorBraceStyle = EndOfLine
+		$2.DestructorBraceStyle = EndOfLine
+		$2.ElseNewLinePlacement = NewLine
+		$2.CatchNewLinePlacement = NewLine
+		$2.FinallyNewLinePlacement = NewLine
+		$2.WhileNewLinePlacement = NewLine
+		$2.ArrayInitializerWrapping = DoNotChange
+		$2.BeforeMethodDeclarationParentheses = False
+		$2.BeforeMethodCallParentheses = False
+		$2.BeforeConstructorDeclarationParentheses = False
+		$2.NewLineBeforeConstructorInitializerColon = SameLine
+		$2.NewLineAfterConstructorInitializerColon = NewLine
+		$2.BeforeIndexerDeclarationBracket = False
+		$2.BeforeDelegateDeclarationParentheses = False
+		$2.AfterDelegateDeclarationParameterComma = True
+		$2.NewParentheses = False
+		$2.SpacesBeforeBrackets = False
+		$2.BlankLinesInsideRegion = 0
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+	EndGlobalSection
+EndGlobal

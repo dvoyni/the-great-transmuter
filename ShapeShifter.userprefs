@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Interaction/Draggable.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Interaction/Draggable.cs" Line="42" Column="48" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Sergey/Dropbox/Work/oroboro/ShapeShifter/Assets/Scripts/Interaction/Draggable.cs" line="40" column="1" />
+      <Breakpoint file="/Users/Sergey/Dropbox/Work/oroboro/ShapeShifter/Assets/Scripts/Interaction/Draggable.cs" line="42" column="1" />
+      <Breakpoint file="/Users/Sergey/Dropbox/Work/oroboro/ShapeShifter/Assets/Scripts/Interaction/Draggable.cs" line="43" column="1" />
+      <Breakpoint file="/Users/Sergey/Dropbox/Work/oroboro/ShapeShifter/Assets/Scripts/Interaction/Draggable.cs" line="45" column="1" />
+      <Breakpoint file="/Users/Sergey/Dropbox/Work/oroboro/ShapeShifter/Assets/Scripts/Interaction/Draggable.cs" line="50" column="1" />
+      <Breakpoint file="/Users/Sergey/Dropbox/Work/oroboro/ShapeShifter/Assets/Scripts/Interaction/Draggable.cs" line="55" column="1" />
+      <Breakpoint file="/Users/Sergey/Dropbox/Work/oroboro/ShapeShifter/Assets/Scripts/Interaction/Draggable.cs" line="52" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
