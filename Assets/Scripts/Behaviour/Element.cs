@@ -57,9 +57,11 @@ public class Element : MonoBehaviour {
         
         var element = collider.GetComponent<Element>();
         if (element) {
-            element.Destroy();
-            Destroy();
-            return;
+			if (direction.x == element.direction.x || direction.y == element.direction.y) {
+				element.Destroy ();
+				Destroy ();
+				return;
+			}
         }
         
     }
